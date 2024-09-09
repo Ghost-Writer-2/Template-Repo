@@ -1,5 +1,5 @@
 # Project Name
-  Welcome to my project. We're happy to have you here 😄👀
+  Welcome to my Calculator JavaScript practice project. We're happy to have you here 😄👀
 
 # 📋 Table of Contents
   * [Project Overview](#project-overview)
